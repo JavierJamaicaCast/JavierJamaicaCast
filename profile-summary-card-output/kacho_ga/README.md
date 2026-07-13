@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/JavierJamaicaCast/JavierJamaicaCast/master/profile-summary-card-output/kacho_ga/4-productive-time.svg)
-```
-
-    
